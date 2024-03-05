@@ -15,3 +15,5 @@ _underline_
 **bold**
 
 This is a change made from the browser!
+
+![a face with stubble](/face.jpg)
